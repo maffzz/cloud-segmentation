@@ -1,0 +1,19 @@
+{
+  "n_points": 1647021,
+  "spacing_m": 0.03359255212747408,
+  "classes": {
+    "sin clasificar": 11036,
+    "piso": 439620,
+    "techo": 119828,
+    "plataforma / entrepiso": 63868,
+    "pared / panel": 0,
+    "columna": 254771,
+    "viga": 477135,
+    "arriostre (diagonal)": 11518,
+    "tubería": 166511,
+    "equipo / tanque": 62499,
+    "persona": 0,
+    "vehículo": 0,
+    "accesorio / equipo menor": 40235
+  }
+}

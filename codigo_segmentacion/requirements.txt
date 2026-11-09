@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+open3d
+reportlab
+pillow
